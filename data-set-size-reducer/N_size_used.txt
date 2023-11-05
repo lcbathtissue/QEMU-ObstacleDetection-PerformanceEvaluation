@@ -1,0 +1,2 @@
+90
+[30 fps X 3 seconds = 90]
