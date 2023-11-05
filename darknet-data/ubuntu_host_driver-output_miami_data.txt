@@ -1,0 +1,317 @@
+Output for miami_data/frame_0000_reduced.jpg:
+miami_data/frame_0000_reduced.jpg: Predicted in 17.394372 seconds.
+car: 82%
+car: 79%
+car: 67%
+car: 57%
+
+
+Output for miami_data/frame_0090_reduced.jpg:
+miami_data/frame_0090_reduced.jpg: Predicted in 15.765935 seconds.
+traffic light: 79%
+traffic light: 53%
+car: 98%
+car: 97%
+car: 96%
+car: 94%
+car: 88%
+car: 63%
+
+
+Output for miami_data/frame_0180_reduced.jpg:
+miami_data/frame_0180_reduced.jpg: Predicted in 16.308245 seconds.
+car: 100%
+car: 99%
+car: 98%
+car: 58%
+car: 51%
+person: 100%
+person: 99%
+person: 96%
+person: 57%
+
+
+Output for miami_data/frame_0270_reduced.jpg:
+miami_data/frame_0270_reduced.jpg: Predicted in 15.204203 seconds.
+traffic light: 75%
+car: 100%
+car: 94%
+car: 94%
+person: 95%
+person: 54%
+
+
+Output for miami_data/frame_0360_reduced.jpg:
+miami_data/frame_0360_reduced.jpg: Predicted in 15.824264 seconds.
+car: 99%
+car: 98%
+car: 58%
+person: 97%
+person: 86%
+person: 76%
+person: 57%
+
+
+Output for miami_data/frame_0450_reduced.jpg:
+miami_data/frame_0450_reduced.jpg: Predicted in 15.265605 seconds.
+car: 58%
+person: 86%
+person: 83%
+person: 72%
+person: 57%
+
+
+Output for miami_data/frame_0540_reduced.jpg:
+miami_data/frame_0540_reduced.jpg: Predicted in 16.344383 seconds.
+car: 83%
+
+
+Output for miami_data/frame_0630_reduced.jpg:
+miami_data/frame_0630_reduced.jpg: Predicted in 15.652092 seconds.
+traffic light: 84%
+car: 99%
+car: 97%
+car: 88%
+car: 87%
+car: 75%
+car: 67%
+car: 67%
+car: 58%
+car: 56%
+
+
+Output for miami_data/frame_0720_reduced.jpg:
+miami_data/frame_0720_reduced.jpg: Predicted in 16.767884 seconds.
+traffic light: 72%
+car: 99%
+car: 98%
+car: 95%
+car: 93%
+car: 92%
+car: 86%
+person: 70%
+
+
+Output for miami_data/frame_0810_reduced.jpg:
+miami_data/frame_0810_reduced.jpg: Predicted in 15.788844 seconds.
+traffic light: 79%
+car: 98%
+car: 98%
+car: 95%
+car: 89%
+car: 88%
+car: 66%
+car: 52%
+
+
+Output for miami_data/frame_0900_reduced.jpg:
+miami_data/frame_0900_reduced.jpg: Predicted in 17.617157 seconds.
+traffic light: 64%
+traffic light: 59%
+car: 100%
+car: 96%
+car: 89%
+car: 76%
+car: 70%
+
+
+Output for miami_data/frame_0990_reduced.jpg:
+miami_data/frame_0990_reduced.jpg: Predicted in 16.831123 seconds.
+truck: 54%
+car: 84%
+car: 77%
+car: 67%
+person: 95%
+person: 83%
+
+
+Output for miami_data/frame_1080_reduced.jpg:
+miami_data/frame_1080_reduced.jpg: Predicted in 15.929234 seconds.
+truck: 66%
+car: 55%
+car: 83%
+
+
+Output for miami_data/frame_1170_reduced.jpg:
+miami_data/frame_1170_reduced.jpg: Predicted in 15.784807 seconds.
+truck: 93%
+motorbike: 52%
+car: 97%
+car: 95%
+car: 76%
+car: 73%
+person: 99%
+person: 99%
+
+
+Output for miami_data/frame_1260_reduced.jpg:
+miami_data/frame_1260_reduced.jpg: Predicted in 17.281416 seconds.
+umbrella: 83%
+car: 99%
+car: 98%
+car: 95%
+car: 95%
+car: 94%
+person: 91%
+person: 65%
+
+
+Output for miami_data/frame_1350_reduced.jpg:
+miami_data/frame_1350_reduced.jpg: Predicted in 17.138678 seconds.
+car: 70%
+car: 68%
+car: 56%
+car: 54%
+
+
+Output for miami_data/frame_1440_reduced.jpg:
+miami_data/frame_1440_reduced.jpg: Predicted in 17.38428 seconds.
+car: 98%
+car: 82%
+car: 68%
+
+
+Output for miami_data/frame_1530_reduced.jpg:
+miami_data/frame_1530_reduced.jpg: Predicted in 16.766698 seconds.
+fire hydrant: 65%
+traffic light: 56%
+car: 89%
+car: 72%
+
+
+Output for miami_data/frame_1620_reduced.jpg:
+miami_data/frame_1620_reduced.jpg: Predicted in 15.111971 seconds.
+traffic light: 65%
+car: 86%
+car: 81%
+car: 57%
+
+
+Output for miami_data/frame_1710_reduced.jpg:
+miami_data/frame_1710_reduced.jpg: Predicted in 15.879936 seconds.
+car: 93%
+car: 83%
+car: 75%
+car: 54%
+person: 99%
+
+
+Output for miami_data/frame_1800_reduced.jpg:
+miami_data/frame_1800_reduced.jpg: Predicted in 16.811406 seconds.
+traffic light: 61%
+car: 99%
+car: 97%
+car: 81%
+
+
+Output for miami_data/frame_1890_reduced.jpg:
+miami_data/frame_1890_reduced.jpg: Predicted in 17.414367 seconds.
+traffic light: 67%
+traffic light: 62%
+car: 100%
+car: 98%
+car: 98%
+
+
+Output for miami_data/frame_1980_reduced.jpg:
+miami_data/frame_1980_reduced.jpg: Predicted in 16.298264 seconds.
+traffic light: 79%
+traffic light: 74%
+car: 99%
+car: 93%
+car: 53%
+person: 51%
+
+
+Output for miami_data/frame_2070_reduced.jpg:
+miami_data/frame_2070_reduced.jpg: Predicted in 16.315181 seconds.
+car: 94%
+car: 91%
+car: 84%
+person: 99%
+person: 92%
+person: 84%
+person: 70%
+
+
+Output for miami_data/frame_2160_reduced.jpg:
+miami_data/frame_2160_reduced.jpg: Predicted in 16.477592 seconds.
+car: 97%
+car: 95%
+car: 90%
+car: 89%
+car: 82%
+
+
+Output for miami_data/frame_2250_reduced.jpg:
+miami_data/frame_2250_reduced.jpg: Predicted in 17.032022 seconds.
+traffic light: 58%
+traffic light: 55%
+traffic light: 52%
+car: 73%
+car: 66%
+car: 62%
+person: 98%
+person: 96%
+
+
+Output for miami_data/frame_2340_reduced.jpg:
+miami_data/frame_2340_reduced.jpg: Predicted in 16.135142 seconds.
+traffic light: 74%
+traffic light: 59%
+car: 99%
+car: 83%
+car: 80%
+car: 69%
+car: 67%
+
+
+Output for miami_data/frame_2430_reduced.jpg:
+miami_data/frame_2430_reduced.jpg: Predicted in 16.406202 seconds.
+traffic light: 52%
+car: 100%
+car: 96%
+car: 94%
+car: 78%
+car: 60%
+car: 57%
+
+
+Output for miami_data/frame_2520_reduced.jpg:
+miami_data/frame_2520_reduced.jpg: Predicted in 16.493863 seconds.
+car: 77%
+car: 57%
+bicycle: 54%
+
+
+Output for miami_data/frame_2610_reduced.jpg:
+miami_data/frame_2610_reduced.jpg: Predicted in 16.85684 seconds.
+traffic light: 53%
+car: 96%
+car: 83%
+car: 74%
+car: 54%
+person: 96%
+person: 82%
+
+
+Output for miami_data/frame_2700_reduced.jpg:
+miami_data/frame_2700_reduced.jpg: Predicted in 17.483825 seconds.
+car: 93%
+car: 89%
+car: 84%
+car: 69%
+
+
+Output for miami_data/frame_2790_reduced.jpg:
+miami_data/frame_2790_reduced.jpg: Predicted in 17.047328 seconds.
+car: 98%
+car: 97%
+car: 93%
+car: 90%
+car: 72%
+car: 60%
+car: 59%
+car: 56%
+
+
